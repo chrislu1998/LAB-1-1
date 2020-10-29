@@ -1,0 +1,13 @@
+name: "first-webpage"
+output_dir: "."
+navbar:
+  title: "My Testing Website"
+  left: 
+    - text: "home"
+    - icon: fa-home
+    - herf: index.html
+    - text: "Geog176A work"
+    - herf: geog176A.html
+output:
+  html_document:
+    theme: darkly
