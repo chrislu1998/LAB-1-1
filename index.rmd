@@ -1,0 +1,12 @@
+---
+title: "About Me"
+---
+
+<center>
+# Hi, I am Chris Lu.
+</center>
+
+[My github page](https://github.com/chrislu1998/) is the place where I store my works and projects. I am still learning R programming, this is one of the website I created to test my competency in building a website.
+
+![Hangzhou, West Lake](https://pixabay.com/photos/hangzhou-ching-ming-the-scenery-1534149/)
+
